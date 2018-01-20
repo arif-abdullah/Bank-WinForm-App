@@ -1,0 +1,8 @@
+create table Customer (
+	Id int primary key identity,
+	Name nvarchar(100),
+	Email nvarchar(100),
+	AccountNo nvarchar(100),
+	Balance float,
+	OpeningDate date
+);

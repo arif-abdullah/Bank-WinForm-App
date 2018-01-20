@@ -1,0 +1,18 @@
+D:\Mahmud\SQLExamples\SQLExamples\bin\Debug\SQLExamples.exe.config
+D:\Mahmud\SQLExamples\SQLExamples\bin\Debug\SQLExamples.exe
+D:\Mahmud\SQLExamples\SQLExamples\bin\Debug\SQLExamples.pdb
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.csprojResolveAssemblyReference.cache
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.Properties.Resources.resources
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.csproj.GenerateResource.Cache
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.exe
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.pdb
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.Index.resources
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.Customer.resources
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.Search.resources
+D:\Mahmud\SQLExamples\SQLExamples\obj\Debug\SQLExamples.Transaction.resources
+C:\Users\Web App Develop .Net\Videos\SQLExamples\SQLExamples\bin\Debug\SQLExamples.exe.config
+C:\Users\Web App Develop .Net\Videos\SQLExamples\SQLExamples\obj\Debug\SQLExamples.exe
+C:\Users\Web App Develop .Net\Videos\SQLExamples\SQLExamples\obj\Debug\SQLExamples.pdb
+E:\BITM\SQL\SQLExamples\SQLExamples\bin\Debug\SQLExamples.exe.config
+E:\BITM\SQL\SQLExamples\SQLExamples\obj\Debug\SQLExamples.exe
+E:\BITM\SQL\SQLExamples\SQLExamples\obj\Debug\SQLExamples.pdb
